@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "psr-4": {"ConsoleSkeleton\\": "src/"}
+    },
+    "require": {
+        "php": ">=8.4",
+        "ext-zip": "*",
+        "symfony/console": "^7.3"
+    }
+}
